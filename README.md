@@ -1,5 +1,5 @@
 # Assistive-Chatbot-for-Academic-Information
-Academia chatbot is a web-enabled chatbot powered by Google’s Dialogflow, will can be used to help the students at MITWPU to easily fetch details about their respective subjects, its course pattern, marks distribution etc.
+Academia chatbot is a web-enabled chatbot powered by Google’s Dialogflow, which can be used to help the students at MITWPU to easily fetch details about their respective subjects, its course pattern, marks distribution etc.
 
 # Platform: Google’s Dialogflow
 • It is an End-to-end, Build-once Deploy-everywhere Development Suite. We can build voice or text-based conversational interfaces for almost all types of devices and websites and mobile apps and messaging platforms like facebook, slack, telegram etc
