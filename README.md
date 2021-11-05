@@ -12,7 +12,7 @@ The agent is like a virtual agent or a bot that handles the conversation with th
 Entity:
 The preprocessed data is uploaded to the agent and the topics are uploaded in entities. Entities are dialogflow’s mechanism for identifying and extracting useful data from natural language inputs. They pick out specific pieces of information that the users mention.
 
-Intent
+Intent:
 Intents map the user input to the responses. In each intent we define the examples of user statements that can trigger the intent, what to extract from the statement and how to respond.
 
 Response:
